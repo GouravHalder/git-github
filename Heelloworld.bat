@@ -1,0 +1,1 @@
+echo "HeeloWold Bat file  %date% : %time%"
